@@ -1,4 +1,4 @@
-# Development
+# Production
 A messaging application that allows users to communicate over the Internet when signed in.
 
 ## Problem To Solve?
